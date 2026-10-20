@@ -1,0 +1,5 @@
+# Mantém as quebras de linha como estão (arquivos YAML da Unity)
+* -text
+*.png binary
+*.wav binary
+*.asset -diff

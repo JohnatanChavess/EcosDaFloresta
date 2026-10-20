@@ -1,0 +1,22 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+.vs/
+.idea/
+*.DS_Store
+
+# Executável (publique como release/zip separado)
+/[Bb]uild/
+/[Bb]uilds/
+*_BurstDebugInformation_DoNotShip/
