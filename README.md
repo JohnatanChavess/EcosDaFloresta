@@ -58,7 +58,7 @@ Visão geral das fases:
 
 ## Executar
 
-**Executável (Windows):** abra `Build/Windows/EcosDaFloresta.exe`. A pasta `EcosDaFloresta_Data`, a `MonoBleedingEdge`, a `D3D12` e o `UnityPlayer.dll` precisam estar ao lado do executável. Alt+Enter alterna tela cheia.
+**Executável (Windows):** baixe [`Executavel/EcosDaFloresta_Windows.zip`](Executavel/EcosDaFloresta_Windows.zip), extraia e abra `EcosDaFloresta.exe`. Se você gerou o build pela Unity, ele fica em `Build/Windows/EcosDaFloresta.exe`. A pasta `EcosDaFloresta_Data`, a `MonoBleedingEdge`, a `D3D12` e o `UnityPlayer.dll` precisam estar ao lado do executável. Alt+Enter alterna tela cheia.
 
 **Projeto na Unity:**
 
